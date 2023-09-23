@@ -1,0 +1,20 @@
+.bg-container {
+  min-height: 90vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.dark-mode {
+  background-color: #000000;
+}
+
+.light-mode {
+  background-color: #ffffff;
+}
+
+.home-image {
+  height: 200px;
+  width: 200px;
+}

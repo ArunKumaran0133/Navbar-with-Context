@@ -1,0 +1,46 @@
+.bg-container {
+  min-height: 90vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.dark-mode {
+  background-color: #000000;
+}
+
+.light-mode {
+  background-color: #ffffff;
+}
+
+.not-found-image {
+  height: 200px;
+  width: 200px;
+}
+
+.dark-para {
+  font-family: 'Roboto';
+  font-size: 13px;
+  color: #ffffff;
+}
+
+.light-para {
+  font-family: 'Roboto';
+  font-size: 13px;
+  color: #000000;
+}
+
+.dark-heading {
+  font-family: 'Roboto';
+  font-size: 17px;
+  color: #ffffff;
+  font-weight: 800;
+}
+
+.light-heading {
+  font-family: 'Roboto';
+  font-size: 25px;
+  color: #000000;
+  font-weight: 800;
+}
